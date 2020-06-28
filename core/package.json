@@ -1,0 +1,11 @@
+{
+  "name": "core-library",
+  "version": "1.0.0",
+  "description": "this library is shared between react and react native",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vikrant kumar goutam <vikrantgoutam17@gmail.com>",
+  "license": "ISC"
+}
